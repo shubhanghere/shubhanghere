@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubhangdhawan" target="blank"><img src="https://img.shields.io/twitter/follow/shubhangdhawan?logo=twitter&style=for-the-badge" alt="shubhangdhawan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://shubhangdhawan20008.wixsite.com/shubhang-dhawan](https://shubhangdhawan20008.wixsite.com/shubhang-dhawan)
+- 👨‍💻 Chekout My-Portfolio to Know more about me-:[https://shubhangdhawan20008.wixsite.com/shubhang-dhawan](https://shubhangdhawan20008.wixsite.com/shubhang-dhawan)
 
 - 📝 I regularly write articles on Artifical Intelligence,Machine-Learning. [https://medium.com/@shubhangdhawan2000](https://medium.com/@shubhangdhawan2000)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shubhangdhawan2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b318Eong-CNi9DKgpXmzn0l_SWBbce6j/view](https://drive.google.com/file/d/1b318Eong-CNi9DKgpXmzn0l_SWBbce6j/view)
+- 📄 My Resume-:[https://drive.google.com/file/d/1b318Eong-CNi9DKgpXmzn0l_SWBbce6j/view](https://drive.google.com/file/d/1b318Eong-CNi9DKgpXmzn0l_SWBbce6j/view)
 
 - ⚡ Fun fact **Addiction of Coding😎👾**
 
