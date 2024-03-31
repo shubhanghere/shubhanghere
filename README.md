@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on Artifical Intelligence,Machine-Learning. [https://medium.com/@shubhangdhawan2000](https://medium.com/@shubhangdhawan2000)
 
-- 💬 Ask me about **stuff related to data**
+- 💬 Ask me about any **stuff related to data-science**
 
 - 📫 How to reach me **shubhangdhawan2000@gmail.com**
 
