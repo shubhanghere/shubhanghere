@@ -1,4 +1,4 @@
-![logo](https://github.com/shubhanghere/shubhanghere/blob/main/Screenshot%202024-03-31%20061851.png)
+![logo](https://github.com/shubhanghere/shubhanghere/blob/main/Screenshot%202024-03-31%20082732.png)
 <h1 align="center">Hi 👋, I'm Shubhang Dhawan</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
